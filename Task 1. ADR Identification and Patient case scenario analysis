@@ -1,0 +1,54 @@
+# Task 1 – ADR Identification Basics
+
+## Patient Information
+- Patient: Female
+- Age: 45 years
+
+## Presenting Symptoms
+- Rash
+- Itching
+- Nausea
+- Dizziness
+
+## Medication History
+- Amoxicillin – started 5 days ago
+- Paracetamol – taken as needed
+
+## Timeline
+- Day -5: Amoxicillin was started.
+- Day -2: Symptoms began.
+- Day 0: Symptoms are still present.
+
+## Suspected Drug
+Amoxicillin
+
+## ADR Assessment
+The patient developed rash, itching, nausea and dizziness
+approximately three days after starting amoxicillin.
+
+The temporal relationship between initiation of amoxicillin and
+the onset of symptoms supports a possible association between
+the drug and the reported reaction.
+
+Rash and itching may be suggestive of a hypersensitivity-type
+reaction.although the available information is insufficient to
+confirm the mechanism Nausea and dizziness may also occur with 
+medication use, although other possible causes cannot be excluded 
+based on the information provided.
+
+Paracetamol was taken as needed; however, based on the available
+timeline, amoxicillin is considered the primary suspected drug.
+
+## Causality Assessment
+Based on the available information, the relationship between
+amoxicillin and the reported reactions is considered possible.
+
+A definitive causality assessment cannot be established because
+information regarding dechallenge, rechallenge, medical history,
+exact doses and other potential causes is not available.
+
+## Conclusion
+Amoxicillin is the suspected drug associated with the patient's
+reported rash, itching, nausea and dizziness. The temporal
+relationship between drug exposure and symptom onset supports a
+possible drug-related adverse reaction.
