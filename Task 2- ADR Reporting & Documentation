@@ -1,0 +1,136 @@
+# Task 2 – ADR Reporting & Documentation
+
+## Objective
+
+To complete a structured Adverse Drug Reaction (ADR) reporting form based on the patient case identified in Task 1, following the principles of accurate, structured, and appropriate pharmacovigilance documentation.
+
+---
+
+## Case Summary
+
+A 45-year-old female patient was prescribed amoxicillin, which was started 5 days prior to reporting. The patient subsequently developed rash, itching, nausea, and dizziness.
+
+The patient was also taking paracetamol as needed.
+
+Based on the temporal relationship between initiation of amoxicillin and the onset of the reported symptoms, amoxicillin was identified as the suspected medicine.
+
+---
+
+## Patient Information
+
+| Field | Details |
+|---|---|
+| Patient Initials | NR |
+| Age | 45 years |
+| Gender | Female |
+
+---
+
+## Suspected Medicine
+
+| Field | Details |
+|---|---|
+| Medicine Name | Amoxicillin |
+| Dose | NR |
+| Route | NR |
+| Start Date | Day -5 |
+| Suspected Medicine | Yes |
+
+---
+
+## Adverse Reaction Information
+
+| Field | Details |
+|---|---|
+| Reaction/Event | Rash, itching, nausea and dizziness |
+| Date of Onset | Day -2 |
+| Date of Recovery | NR |
+| Outcome | Not recovered / ongoing |
+| Seriousness | Non-serious |
+
+---
+
+## Concomitant Medication
+
+| Medicine | Dose/Frequency |
+|---|---|
+| Paracetamol | As needed |
+
+Paracetamol was documented as a concomitant medication and was not identified as the primary suspected medicine.
+
+---
+
+## Case Timeline
+
+- **Day -5:** Amoxicillin was started.
+- **Day -2:** The patient developed rash, itching, nausea and dizziness.
+- **Day 0:** The reported symptoms remained ongoing.
+- **During the case:** Paracetamol was taken as needed.
+
+---
+
+## Reporter Information
+
+| Field | Details |
+|---|---|
+| Reporter Name | Mudita Bhargava |
+| Designation | Pharmacovigilance Intern |
+| Contact | Not provided for public repository |
+| Healthcare Institution | NR |
+
+---
+
+## Additional Information
+
+A 45-year-old female patient was started on amoxicillin 5 days prior to reporting. Approximately 3 days after initiation of amoxicillin, the patient developed rash, itching, nausea and dizziness. The symptoms remained ongoing at the time of reporting. Paracetamol was taken as needed as a concomitant medication.
+
+The dose and route of administration of amoxicillin were not reported. No information regarding dechallenge, rechallenge, relevant medical history, or other possible contributing factors was available.
+
+Based on the temporal association between amoxicillin exposure and onset of the reported reactions, amoxicillin was identified as the suspected medicine. A definitive causal relationship could not be established from the available information.
+
+---
+
+## Pharmacovigilance Assessment
+
+### Suspected Medicine
+
+**Amoxicillin**
+
+### Reported Adverse Events
+
+- Rash
+- Itching
+- Nausea
+- Dizziness
+
+### Concomitant Medication
+
+**Paracetamol – taken as needed**
+
+### Seriousness
+
+The reported case was considered **non-serious** based on the information provided. No hospitalization, life-threatening event, disability, congenital anomaly, or death was reported.
+
+### Causality Assessment
+
+The temporal relationship between initiation of amoxicillin and onset of the reported symptoms supports a possible association between amoxicillin and the adverse events. However, the available information is insufficient to establish definite causality.
+
+### Missing Information
+
+The following information was not available in the case scenario:
+
+- Patient initials
+- Dose of amoxicillin
+- Route of administration
+- Relevant medical history
+- Dechallenge information
+- Rechallenge information
+- Date of recovery
+
+These details were recorded as **NR (Not Reported)** rather than being assumed.
+
+---
+
+## Conclusion
+
+This task demonstrates the conversion of an identified adverse drug reaction case into a structured pharmacovigilance report. Accurate documentation of patient information, suspected medicine, adverse events, concomitant medication, timeline, seriousness, outcome, and causality information is essential for effective pharmacovigilance and patient safety.
