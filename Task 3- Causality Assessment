@@ -1,0 +1,163 @@
+# Task 3 – Causality Assessment of Drug Reactions
+
+## Objective
+
+To evaluate the causal relationship between a suspected drug and an observed adverse drug reaction (ADR) using standard causality assessment methods. The case is assessed based on temporal relationship, dechallenge, alternative causes, and rechallenge, and the reaction is classified as Certain, Probable/Likely, or Possible.
+
+---
+
+## Case Study
+
+### Patient Information
+
+- **Age:** 45 years
+- **Gender:** Female
+
+### Suspected Drug
+
+- **Drug:** Amoxicillin
+- **Role:** Suspected drug
+
+### Adverse Drug Reaction
+
+- **Reaction:** Skin rash
+
+### Case Timeline
+
+| Event | Timeline |
+|---|---|
+| Amoxicillin started | Day 0 |
+| Skin rash developed | Day 3 |
+| Amoxicillin discontinued | After development of rash |
+| Outcome | Patient recovered after stopping the drug |
+| Rechallenge | Not performed / Not reported |
+
+---
+
+## Causality Assessment Criteria
+
+The following criteria were considered:
+
+1. Temporal relationship
+2. Dechallenge
+3. Alternative causes
+4. Rechallenge, if applicable
+
+---
+
+## 1. Temporal Relationship
+
+The skin rash occurred **3 days after initiation of amoxicillin**.
+
+This provides a reasonable temporal relationship between exposure to the suspected drug and the onset of the adverse reaction.
+
+**Assessment: Positive**
+
+---
+
+## 2. Dechallenge
+
+The patient **recovered after discontinuation of amoxicillin**.
+
+Improvement of the reaction following withdrawal of the suspected drug supports a possible causal relationship.
+
+**Assessment: Positive**
+
+---
+
+## 3. Alternative Causes
+
+No alternative cause is provided in the case information that would clearly explain the skin rash independently of amoxicillin.
+
+Therefore, based on the available information, an alternative cause is not established.
+
+**Assessment: No clear alternative cause identified**
+
+---
+
+## 4. Rechallenge
+
+The patient was not re-exposed to amoxicillin after recovery.
+
+Therefore, rechallenge information is unavailable.
+
+A positive rechallenge would provide stronger evidence for causality; however, rechallenge is not required for a Probable/Likely classification.
+
+**Assessment: Not performed / Not reported**
+
+---
+
+# WHO-UMC Causality Assessment
+
+According to the WHO-UMC causality assessment criteria:
+
+- The reaction had a reasonable temporal relationship with amoxicillin exposure.
+- The patient recovered after withdrawal of the suspected drug.
+- No clear alternative cause was identified from the case information.
+- Rechallenge was not performed.
+
+### Final Classification: PROBABLE / LIKELY
+
+The relationship between amoxicillin and the skin rash is classified as **Probable/Likely**.
+
+The case does not meet the requirements for a Certain classification because rechallenge was not available and the case does not provide sufficiently definitive evidence to establish causality with certainty.
+
+---
+
+# Naranjo Adverse Drug Reaction Probability Assessment
+
+The Naranjo algorithm is a structured method used to estimate the probability that an adverse event is related to a suspected medication.
+
+| Naranjo Question | Response | Score |
+|---|---|---:|
+| 1. Are there previous conclusive reports on this reaction? | Yes | +1 |
+| 2. Did the adverse reaction occur after administration of the suspected drug? | Yes | +2 |
+| 3. Did the reaction improve after discontinuation of the drug? | Yes | +1 |
+| 4. Did the reaction reappear after readministration? | Unknown / Not performed | 0 |
+| 5. Are there alternative causes that could have caused the reaction? | No clear alternative cause reported | +2 |
+| 6. Did the reaction reappear with placebo? | Unknown | 0 |
+| 7. Was the drug detected in toxic concentrations? | Unknown | 0 |
+| 8. Was the reaction more severe with increased dose or less severe with decreased dose? | Unknown | 0 |
+| 9. Did the patient have a similar reaction to the same or related drug previously? | Unknown | 0 |
+| 10. Was the adverse reaction confirmed by objective evidence? | Unknown | 0 |
+
+### Total Naranjo Score: 6
+
+### Interpretation
+
+A Naranjo score of **5–8 indicates a Probable adverse drug reaction**.
+
+Therefore, the Naranjo assessment also supports a **Probable** relationship between amoxicillin and the skin rash.
+
+---
+
+# Final Assessment
+
+| Assessment Method | Result |
+|---|---|
+| WHO-UMC Causality Assessment | **Probable/Likely** |
+| Naranjo ADR Probability Scale | **Probable (Score: 6)** |
+
+### Overall Conclusion
+
+Based on the available clinical information, the skin rash is **probably related to amoxicillin**.
+
+The reaction occurred three days after initiation of amoxicillin and resolved after discontinuation of the drug. No clear alternative cause was identified in the case information. However, because rechallenge was not performed, the reaction cannot be classified as Certain.
+
+---
+
+## Key Learning Points
+
+- Temporal relationship is an important component of causality assessment.
+- Dechallenge provides supportive evidence when the reaction improves after withdrawal of the suspected drug.
+- Alternative causes should be considered before assigning causality.
+- Rechallenge can provide strong evidence but is not required for a Probable/Likely classification under WHO-UMC criteria.
+- Standardized causality assessment helps maintain consistency when evaluating individual case safety reports.
+
+---
+
+## References
+
+1. Pharmacovigilance Programme of India (PvPI), Indian Pharmacopoeia Commission. Guidance Document for Spontaneous Adverse Drug Reaction Reporting – WHO-UMC Causality Assessment Scale.
+2. Naranjo CA, Busto U, Sellers EM, et al. A method for estimating the probability of adverse drug reactions.
+3. National Center for Biotechnology Information (NCBI). Naranjo Adverse Drug Reaction Probability Scale.
