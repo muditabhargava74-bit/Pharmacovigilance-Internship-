@@ -1,0 +1,187 @@
+# Task 4: Classification of Adverse Drug Reactions Based on Seriousness and Expectedness
+
+## Objective
+
+To classify adverse drug reactions (ADRs) based on their seriousness and expectedness, evaluate their potential clinical impact, and apply standard pharmacovigilance principles for safety assessment and reporting.
+
+## Pharmacovigilance Definitions
+
+### Serious Adverse Drug Reaction
+
+A serious adverse drug reaction is an adverse medical occurrence that results in one or more of the following:
+
+- Death
+- Life-threatening condition
+- Inpatient hospitalization or prolongation of existing hospitalization
+- Persistent or significant disability/incapacity
+- Congenital anomaly or birth defect
+
+Important medical events may also be considered serious when, based on appropriate medical judgment, they may jeopardize the patient or require medical or surgical intervention to prevent one of the outcomes above.
+
+**Important:** Seriousness is different from severity. Severity describes the intensity of an event, whereas seriousness is determined by regulatory outcome criteria.
+
+### Expected Adverse Drug Reaction
+
+An expected adverse drug reaction is a reaction whose nature, severity, or specificity is consistent with the applicable product information, such as the approved prescribing information, Summary of Product Characteristics (SmPC), or other relevant safety information.
+
+An unexpected reaction is one whose nature or severity is not consistent with the applicable product information.
+
+---
+
+# Case Analysis
+
+| Case | Drug | Adverse Reaction | Seriousness | Expectedness | Clinical Impact |
+|------|------|------------------|-------------|--------------|----------------|
+| 1 | Amoxicillin | Skin rash and itching | Non-serious | Expected | Mild-to-moderate clinical impact; may require symptomatic treatment and monitoring. |
+| 2 | Ibuprofen | Gastrointestinal bleeding requiring hospitalization | Serious | Expected | High clinical impact because the reaction resulted in hospitalization and may require withdrawal of the drug, treatment of bleeding, and monitoring. |
+| 3 | Metformin | Lactic acidosis | Serious | Unexpected | Potentially life-threatening clinical impact requiring urgent medical intervention and possible hospitalization. |
+| 4 | Atorvastatin | Mild elevation of liver enzymes | Non-serious | Expected | Generally limited clinical impact when mild; may require laboratory monitoring and assessment of continued therapy. |
+| 5 | Levofloxacin | Tendon rupture | Serious | Unexpected | Significant clinical impact because tendon rupture may require discontinuation of treatment, medical/surgical management, rehabilitation, and may result in prolonged disability. |
+
+---
+
+## Detailed Case Evaluation
+
+### Case 1: Amoxicillin – Skin Rash and Itching
+
+**Adverse reaction:** Skin rash and itching
+
+**Seriousness:** Non-serious
+
+**Expectedness:** Expected
+
+**Clinical impact:**
+
+Skin rash and itching are recognized adverse reactions associated with amoxicillin. In the case presented, there is no indication of hospitalization, life-threatening illness, persistent disability, or another serious outcome. Therefore, the reaction is classified as non-serious.
+
+The reaction may require monitoring, symptomatic treatment, or discontinuation of the drug depending on its progression. If the reaction progresses to a severe hypersensitivity reaction such as anaphylaxis or another serious cutaneous reaction, its seriousness classification would change.
+
+**Final classification:** Non-serious and expected.
+
+---
+
+### Case 2: Ibuprofen – Gastrointestinal Bleeding Requiring Hospitalization
+
+**Adverse reaction:** Gastrointestinal bleeding requiring hospitalization
+
+**Seriousness:** Serious
+
+**Expectedness:** Expected
+
+**Clinical impact:**
+
+Gastrointestinal bleeding is a clinically important adverse reaction associated with NSAID therapy, including ibuprofen. Because the event requires inpatient hospitalization, it meets the regulatory definition of a serious adverse event.
+
+The event can result in substantial morbidity and may require withdrawal of ibuprofen, medical treatment to control bleeding, laboratory monitoring, fluid replacement, blood transfusion in severe cases, and further gastrointestinal evaluation.
+
+The reaction is classified as expected when it is consistent with the applicable product safety information.
+
+**Final classification:** Serious and expected.
+
+---
+
+### Case 3: Metformin – Lactic Acidosis
+
+**Adverse reaction:** Lactic acidosis
+
+**Seriousness:** Serious
+
+**Expectedness:** Unexpected
+
+**Clinical impact:**
+
+Lactic acidosis is a potentially life-threatening metabolic complication associated with metformin use. It can require urgent medical evaluation, hospitalization, intensive monitoring, and treatment of the underlying metabolic disturbance.
+
+Because of its potentially life-threatening nature, the event is classified as serious.
+
+For this assignment, the reaction is classified as unexpected because the case assumes that the observed reaction is not consistent with the applicable safety information being used for the exercise.
+
+**Final classification:** Serious and unexpected.
+
+**Pharmacovigilance significance:** A serious and unexpected suspected adverse reaction warrants prompt safety evaluation and, in a clinical-trial setting, may meet the criteria for a suspected unexpected serious adverse reaction (SUSAR) when there is a reasonable possibility that the drug caused the event.
+
+---
+
+### Case 4: Atorvastatin – Mild Elevation of Liver Enzymes
+
+**Adverse reaction:** Mild elevation of liver enzymes
+
+**Seriousness:** Non-serious
+
+**Expectedness:** Expected
+
+**Clinical impact:**
+
+Mild elevation of liver enzymes is a recognized laboratory abnormality associated with statin therapy. When the elevation is mild and does not result in hospitalization, significant disability, or another serious outcome, it is classified as non-serious.
+
+The event may require repeat liver-function testing, clinical monitoring, and assessment of whether treatment should be continued or modified.
+
+**Final classification:** Non-serious and expected.
+
+---
+
+### Case 5: Levofloxacin – Tendon Rupture
+
+**Adverse reaction:** Tendon rupture
+
+**Seriousness:** Serious
+
+**Expectedness:** Unexpected
+
+**Clinical impact:**
+
+Tendon rupture is a clinically significant adverse reaction associated with fluoroquinolone therapy. It can result in substantial functional impairment and may require discontinuation of the drug, orthopedic assessment, surgery in some cases, and prolonged rehabilitation.
+
+For this assignment, the event is classified as serious because of its significant potential clinical consequences and possible disability/incapacity.
+
+It is classified as unexpected according to the case information provided for this exercise.
+
+**Final classification:** Serious and unexpected.
+
+---
+
+# Summary of Classification
+
+| Case | Drug | Seriousness | Expectedness | Overall Pharmacovigilance Significance |
+|------|------|-------------|--------------|----------------------------------------|
+| 1 | Amoxicillin | Non-serious | Expected | Routine safety monitoring |
+| 2 | Ibuprofen | Serious | Expected | Important serious known adverse reaction requiring appropriate safety assessment |
+| 3 | Metformin | Serious | Unexpected | Requires prompt safety evaluation; potentially reportable depending on regulatory context |
+| 4 | Atorvastatin | Non-serious | Expected | Routine monitoring and clinical follow-up |
+| 5 | Levofloxacin | Serious | Unexpected | Important safety signal requiring prompt evaluation and appropriate regulatory handling |
+
+---
+
+# Clinical Impact Assessment
+
+The five cases demonstrate different levels of clinical impact:
+
+1. **Amoxicillin-associated rash and itching** have relatively limited clinical impact when uncomplicated, although progression to severe hypersensitivity would require immediate reassessment.
+
+2. **Ibuprofen-associated gastrointestinal bleeding** has substantial clinical impact because hospitalization is required and the patient may require medical intervention.
+
+3. **Metformin-associated lactic acidosis** has potentially life-threatening consequences and therefore represents a high-priority safety event.
+
+4. **Mild elevation of liver enzymes with atorvastatin** generally has limited clinical impact when mild and appropriately monitored.
+
+5. **Levofloxacin-associated tendon rupture** can cause significant functional impairment and prolonged recovery, making it an important adverse reaction from a pharmacovigilance perspective.
+
+---
+
+# Conclusion
+
+Classification of adverse drug reactions according to seriousness and expectedness is an important component of pharmacovigilance. Seriousness is determined by the clinical outcome and regulatory criteria, whereas expectedness is determined by comparison with the applicable product safety information.
+
+Among the cases evaluated, amoxicillin-associated rash and atorvastatin-associated mild liver enzyme elevation were classified as non-serious and expected. Ibuprofen-associated gastrointestinal bleeding was classified as serious but expected because hospitalization occurred. Metformin-associated lactic acidosis and levofloxacin-associated tendon rupture were classified as serious and unexpected according to the information provided for the exercise.
+
+This assessment demonstrates how pharmacovigilance professionals evaluate adverse reactions, determine their clinical significance, and identify cases that may require enhanced safety monitoring or regulatory reporting.
+
+## References
+
+1. International Council for Harmonisation (ICH). ICH E2A: Clinical Safety Data Management: Definitions and Standards for Expedited Reporting.
+
+2. U.S. Food and Drug Administration (FDA). Expedited Safety Reporting Requirements for Human Drug and Biological Products.
+
+3. U.S. Food and Drug Administration (FDA). What is a Serious Adverse Event?
+
+4. ICH E6(R3). Good Clinical Practice – Glossary and Safety Reporting Definitions.
